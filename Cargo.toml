@@ -1,0 +1,6 @@
+[package]
+name = "scanner_606"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

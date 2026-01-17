@@ -1,0 +1,10 @@
+23/INT +/+ 8/INT
+2.5/REAL */* 0/INT
+5/INT NUM/VAR ^/POW 3.0/REAL
+x/VAR =/= 5/INT
+10/INT */* x/VAR
+x/VAR =/= y/VAR
+x/VAR !=/!= 5/INT
+X/VAR #/ERR +/+ 8/INT
+(/LPAREN 2/INT +/+ 5/INT )/RPAREN
+x/VAR =/= list/list [/LBRACKET 2/INT ]/RBRACKET
